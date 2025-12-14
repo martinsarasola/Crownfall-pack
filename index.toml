@@ -9329,6 +9329,10 @@ file = "mods/configured-forge-1.20.1-2.2.3.jar"
 hash = "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f"
 
 [[files]]
+file = "mods/coolrain-1.20.1-Forge-1.0.3.jar"
+hash = "a8183b429b7a15b876b83256ab7a5038175936f7074f0ff78535016f49b18a2e"
+
+[[files]]
 file = "mods/create-1.20.1-6.0.8.jar"
 hash = "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0"
 
